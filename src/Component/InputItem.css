@@ -1,0 +1,24 @@
+.item-add {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+.item-box{
+    width: 280px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+    font-weight:bold;
+    background-color: #28282B;
+    color: white;
+    border: 1px solid black;
+    border-radius: 24px;
+    outline:none;
+}
+.edit-logo{
+    width:34px;
+    height:34px;
+    padding:4px;
+}

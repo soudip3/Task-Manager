@@ -1,0 +1,38 @@
+.list-item {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+.list-box {
+    width: 250px;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+    border-style: none;
+    font-weight:bold;
+    background-color: black;
+    color: white;
+    outline:none;
+}
+.list-box-edit {
+    width: 250px;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+    border-style: none;
+    font-weight:bold;
+    background-color: grey;
+    color: white;
+    outline:none;
+    border-radius:25px;
+    
+}
+.delete-logo{
+    width:34px;
+    height:34px;
+
+}
